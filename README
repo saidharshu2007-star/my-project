@@ -1,4 +1,1 @@
-Hello World!
-Edited by Dharshini
-This is updated for Git experiment
-This change is made by collaborator
+print("New feature added by student")
